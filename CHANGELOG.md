@@ -1,5 +1,15 @@
 # Changelog
 
+## 2.1.0 (2023-05-22)
+
+#### New Features
+* [#1283](https://github.com/mondaycom/monday-ui-react-core/pull/1283) Feature/sergeyro/button brand color ([@SergeyRoyt](https://github.com/SergeyRoyt))
+
+## 2.0.1 (2023-05-22)
+
+#### New Icons
+* [#1298](https://github.com/mondaycom/monday-ui-react-core/pull/1298) Upgrade icons ([@github-actions[bot]](https://github.com/apps/github-actions))
+
 ## 2.0.0 (2023-05-16)
 
 ## Breaking Changes 🔴
